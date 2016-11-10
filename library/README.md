@@ -1,2 +1,3 @@
-# learn-python-repository-guide
-Information on Learning Python libraries, templates
+# library
+
+此处存放一些个人认为比较好库文件。可用于学习和平时使用
